@@ -1,0 +1,11 @@
+Makefile
+makefile
+moc_*
+ui_*
+*.o
+debug/*
+release/*
+*.user*
+FileCopy
+*.txt
+*.stash
